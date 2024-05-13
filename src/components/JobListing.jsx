@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const JobListing = ({ job }) => {
   return (
     <div className='bg-white rounded-xl shadow-md relative'>
